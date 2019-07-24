@@ -80,40 +80,6 @@ class MainActivity : AppCompatActivity() {
         fun openFilm()
     }
 
-//    fun getMoviess(): List<names> {
-//
-//        val apiService = ApiInterface.create()
-//        val call = apiService.getMovies("a52c775a630c8b990fe9365ca601e2bf")
-//
-//
-//        var nameslistRet: List<names>? = null
-//
-//        var retrofit: Retrofit = Retrofit.Builder()
-//            .baseUrl(BASE_URL)
-//            .addConverterFactory(GsonConverterFactory.create())
-//            .build()
-//
-//        var api = retrofit.create(ApiInterface::class.java)
-//        //var call = api.getMovies("6f520821cbe7d8a6623235903a2787d5")
-//        call.enqueue(object : Callback<namesResponse> {
-//
-//            override fun onResponse(call: Call<namesResponse>, response: Response<namesResponse>) {
-//
-//                if (response != null) {
-//
-//                    nameslistRet = response.body()!!.results
-//                }
-//
-//            }
-//
-//            override fun onFailure(call: Call<namesResponse>, t: Throwable) {
-//                Toast.makeText(applicationContext, "${t.toString()}", Toast.LENGTH_SHORT).show()
-//
-//            }
-//        })
-//
-//        return nameslistRet!!
-//    }
 
 
 }
