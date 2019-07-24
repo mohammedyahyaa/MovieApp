@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">trainingTask</string>
+
+    <string name="movie_name">Creed</string>
+    <string name="movie_description">Action,Sport,Drama,Romance</string>
+    <string name="movie_overview">Overview</string>
+    <string name="date">2016-02-09</string>
+
+
+
+    <string name="movie_overview_details">The former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to Adonis Johnson, the son of his late friend and former rival Apollo Creed.
+        Director: Ryan Coogler
+        Writers: Ryan Coogler (screenplay by), Aaron Covington (screenplay by) | 2 more credits »
+        Stars: Michael B. Jordan, Sylvester Stallone, Tessa Thompson</string>
+
+
+
+
+
+
+</resources>
